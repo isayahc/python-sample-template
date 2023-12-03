@@ -2,7 +2,7 @@
 
 [![Build Status](https://img.shields.io/travis/username/reponame.svg?style=flat-square)](https://travis-ci.org/username/reponame)
 [![Coverage Status](https://img.shields.io/coveralls/username/reponame.svg?style=flat-square)](https://coveralls.io/github/username/reponame)
-[![License](https://img.shields.io/github/license/username/reponame.svg?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/github/license/isayahc/python-sample-template.svg?style=flat-square)](LICENSE)
 
 ## Description
 
